@@ -1,6 +1,6 @@
 # Contabo Pricing
 
-> **Last updated:** 2026-05-05T08:21:08.219Z  
+> **Last updated:** 2026-05-05T19:03:53.096Z  
 > Auto-refreshed twice daily · data from [contabo.com](https://contabo.com)
 
 ## ☁️ Cloud VPS
