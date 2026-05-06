@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "scraper_version": "2.2.1",
-  "generated_at": "2026-05-06T08:36:28.399Z",
+  "generated_at": "2026-05-06T19:20:03.716Z",
   "plan_count": 16,
   "plans": {
     "https://contabo.com/en/storage-vps/storage-vps-10/": {
@@ -53,7 +53,7 @@
         "12": 0
       },
       "family": "Storage VPS",
-      "fetched_at": "2026-05-06T08:36:28.083Z",
+      "fetched_at": "2026-05-06T19:19:59.423Z",
       "options": {
         "Data Protection": [
           {
@@ -649,7 +649,7 @@
         "12": 0
       },
       "family": "Storage VPS",
-      "fetched_at": "2026-05-06T08:36:28.256Z",
+      "fetched_at": "2026-05-06T19:19:59.548Z",
       "options": {
         "Data Protection": [
           {
@@ -1255,7 +1255,7 @@
         "12": 0
       },
       "family": "Storage VPS",
-      "fetched_at": "2026-05-06T08:36:24.955Z",
+      "fetched_at": "2026-05-06T19:20:00.029Z",
       "options": {
         "Data Protection": [
           {
@@ -1881,7 +1881,7 @@
         "12": 0
       },
       "family": "Storage VPS",
-      "fetched_at": "2026-05-06T08:36:24.990Z",
+      "fetched_at": "2026-05-06T19:19:59.090Z",
       "options": {
         "Data Protection": [
           {
@@ -2507,7 +2507,7 @@
         "12": 0
       },
       "family": "Storage VPS",
-      "fetched_at": "2026-05-06T08:36:28.283Z",
+      "fetched_at": "2026-05-06T19:20:02.866Z",
       "options": {
         "Data Protection": [
           {
@@ -3133,7 +3133,7 @@
         "12": 0
       },
       "family": "Cloud VDS",
-      "fetched_at": "2026-05-06T08:36:27.995Z",
+      "fetched_at": "2026-05-06T19:20:02.292Z",
       "options": {
         "Data Protection": [
           {
@@ -3819,7 +3819,7 @@
         "12": 0
       },
       "family": "Cloud VDS",
-      "fetched_at": "2026-05-06T08:36:26.814Z",
+      "fetched_at": "2026-05-06T19:20:02.744Z",
       "options": {
         "Data Protection": [
           {
@@ -4505,7 +4505,7 @@
         "12": 0
       },
       "family": "Cloud VDS",
-      "fetched_at": "2026-05-06T08:36:25.357Z",
+      "fetched_at": "2026-05-06T19:19:59.603Z",
       "options": {
         "Data Protection": [
           {
@@ -5181,7 +5181,7 @@
         "12": 0
       },
       "family": "Cloud VDS",
-      "fetched_at": "2026-05-06T08:36:28.162Z",
+      "fetched_at": "2026-05-06T19:20:02.296Z",
       "options": {
         "Data Protection": [
           {
@@ -5857,7 +5857,7 @@
         "12": 0
       },
       "family": "Cloud VDS",
-      "fetched_at": "2026-05-06T08:36:28.326Z",
+      "fetched_at": "2026-05-06T19:20:03.699Z",
       "options": {
         "Data Protection": [
           {
@@ -6543,7 +6543,7 @@
         "12": 0
       },
       "family": "Cloud VPS",
-      "fetched_at": "2026-05-06T08:36:25.258Z",
+      "fetched_at": "2026-05-06T19:19:58.797Z",
       "options": {
         "Data Protection": [
           {
@@ -7189,7 +7189,7 @@
         "12": 0
       },
       "family": "Cloud VPS",
-      "fetched_at": "2026-05-06T08:36:25.100Z",
+      "fetched_at": "2026-05-06T19:20:00.119Z",
       "options": {
         "Data Protection": [
           {
@@ -7835,7 +7835,7 @@
         "12": 0
       },
       "family": "Cloud VPS",
-      "fetched_at": "2026-05-06T08:36:24.175Z",
+      "fetched_at": "2026-05-06T19:20:01.572Z",
       "options": {
         "Data Protection": [
           {
@@ -8481,7 +8481,7 @@
         "12": 0
       },
       "family": "Cloud VPS",
-      "fetched_at": "2026-05-06T08:36:28.384Z",
+      "fetched_at": "2026-05-06T19:20:01.783Z",
       "options": {
         "Data Protection": [
           {
@@ -9127,7 +9127,7 @@
         "12": 0
       },
       "family": "Cloud VPS",
-      "fetched_at": "2026-05-06T08:36:25.156Z",
+      "fetched_at": "2026-05-06T19:20:02.242Z",
       "options": {
         "Data Protection": [
           {
@@ -9773,7 +9773,7 @@
         "12": 0
       },
       "family": "Cloud VPS",
-      "fetched_at": "2026-05-06T08:36:25.214Z",
+      "fetched_at": "2026-05-06T19:20:00.096Z",
       "options": {
         "Data Protection": [
           {
